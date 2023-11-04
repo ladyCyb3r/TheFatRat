@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=TheFatRat 
+Name=TheFatRat Cyber Edition
 Comment=Massive Exploiting Tool Revealed - An easy tool to generate backdoor & post exploitation attack.
 Exec=gnome-terminal -t "TheFatRat 1.9.5" --geometry=600x630 -e "bash -c 'fatrat';-bash"
 Icon=/usr/share/icons/TheFatRat.ico
