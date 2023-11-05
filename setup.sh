@@ -1274,7 +1274,7 @@ echo -e "$yellow"""
 read -rsp $'Press [ENTER] key to continue setup \n' -n 1 key
 
 }
-# setup.sh Original Author : Edo maland ( Screetsec )
+# setup.sh Original Author : Shariar Sakib ( Cyb3r )
 # Script rebuilded by peterpt
 # Install all dependencies nedded
 # configuration all file for fixing all problems
@@ -1380,7 +1380,7 @@ echo "                 |   |     /    /                 "
 echo "                 |___| /\ /____/                  "
 echo "                       \/                         "
 echo ""
-echo -e "$blue" "         Setup Script for FATRAT 1.9.7       "
+echo -e "$blue" "         Setup Script for FATRAT Cyb3r Edition       "
 echo "------------------------------------------------------" > "$log"
 echo "| Tools paths configured in setup.sh for TheFatRat |" >> "$log"
 echo "------------------------------------------------------" >> "$log"
