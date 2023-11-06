@@ -59,7 +59,7 @@ chmod +x chk_tools
 ## Tools Overview
 | Front View | Sample Feature	|
 | ------------  | ------------ |
-|![Index](https://www.youtube.com/watch?v=wTxLHPmkbsE)|![f](https://media.geeksforgeeks.org/wp-content/uploads/20210318162712/6.PNG)
+|![Index](https://media.wired.com/photos/644318b17b25a434b1f3bbd7/master/w_1280,c_limit/security_hacker_names.jpg)|![f](https://media.geeksforgeeks.org/wp-content/uploads/20210318162712/6.PNG)
 
 ## Documentation
 - Documentation Available in Modules CEH v9 and V10 , Download source here 
@@ -79,12 +79,12 @@ chmod +x chk_tools
 	- [Bind FUD Payload with JPG and Hack over WAN with TheFatRat](https://www.youtube.com/watch?v=VPl1TMCAIy8)
 
 
-## Changelog
-All notable changes to this project will be documented in this [file](https://github.com/Screetsec/thefatrat/blob/master/CHANGELOG.md).
-
 ### About issues
 - Read the [document](https://github.com/Screetsec/TheFatRat/blob/master/issues.md) before making an issue
 
+##Theme Song
+ Before Use  (https://www.youtube.com/watch?v=wTxLHPmkbsE)
+ 
 ## Alternative Best Tool - Generating Backdoor & Bypass 
 - [Veil-Framework /Veil](https://github.com/Veil-Framework/Veil) - Veil Framework 
 - [Shellter](https://www.shellterproject.com/download/) - Shellter AV Evasion Artware
